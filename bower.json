@@ -1,0 +1,18 @@
+{
+  "name": "js-sketch",
+  "description": "",
+  "main": "app/index.js",
+  "authors": [
+    "Bogdan Cernat <cernat.bogdan.stefan@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
